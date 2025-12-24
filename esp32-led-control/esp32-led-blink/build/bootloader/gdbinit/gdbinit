@@ -1,0 +1,2 @@
+source C:/Users/user/embedded-systems-lab/esp32-led-control/esp32-led-blink/build/bootloader/gdbinit/symbols
+source C:/Users/user/embedded-systems-lab/esp32-led-control/esp32-led-blink/build/bootloader/gdbinit/connect
