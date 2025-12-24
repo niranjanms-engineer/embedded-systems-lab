@@ -1,0 +1,8 @@
+# ESP-IDF build output
+esp32-led-control/build/
+esp32-led-control/sdkconfig
+esp32-led-control/sdkconfig.old
+
+# Python cache
+__pycache__/
+*.pyc
